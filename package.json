@@ -2,7 +2,7 @@
     "name": "notes",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://angabar.github.io/notes",
+    "homepage": "http://angabar.github.io/notes/",
     "dependencies": {
         "@testing-library/jest-dom": "5.16.4",
         "@testing-library/react": "13.3.0",
