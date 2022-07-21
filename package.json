@@ -2,23 +2,24 @@
     "name": "notes",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://angabar.github.io/notes",
     "dependencies": {
-        "@testing-library/jest-dom": "^5.16.4",
-        "@testing-library/react": "^13.3.0",
-        "@testing-library/user-event": "^13.5.0",
-        "@types/jest": "^27.5.2",
-        "@types/node": "^16.11.45",
-        "@types/react": "^18.0.15",
-        "@types/react-dom": "^18.0.6",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "react-markdown": "^8.0.3",
-        "react-router-dom": "^6.3.0",
+        "@testing-library/jest-dom": "5.16.4",
+        "@testing-library/react": "13.3.0",
+        "@testing-library/user-event": "13.5.0",
+        "@types/jest": "27.5.2",
+        "@types/node": "16.11.45",
+        "@types/react": "18.0.15",
+        "@types/react-dom": "18.0.6",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-markdown": "8.0.3",
+        "react-router-dom": "6.3.0",
         "react-scripts": "5.0.1",
-        "react-syntax-highlighter": "^15.5.0",
-        "remark-gfm": "^3.0.1",
-        "typescript": "^4.7.4",
-        "web-vitals": "^2.1.4"
+        "react-syntax-highlighter": "15.5.0",
+        "remark-gfm": "3.0.1",
+        "typescript": "4.7.4",
+        "web-vitals": "2.1.4"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -46,6 +47,7 @@
         ]
     },
     "devDependencies": {
-        "@types/react-syntax-highlighter": "^15.5.3"
+        "@types/react-syntax-highlighter": "15.5.3",
+        "gh-pages": "4.0.0"
     }
 }
