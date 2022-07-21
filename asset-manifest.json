@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/notes/static/css/main.bed4e8db.css",
+    "main.js": "/notes/static/js/main.b02e9e9d.js",
+    "static/js/787.74861886.chunk.js": "/notes/static/js/787.74861886.chunk.js",
+    "static/media/arrays.md": "/notes/static/media/arrays.c88915faabb244153b1b.md",
+    "static/media/control_flow.md": "/notes/static/media/control_flow.31d0f85fd077082152b4.md",
+    "static/media/variables.md": "/notes/static/media/variables.5cd24ad43567570c112c.md",
+    "static/media/primitives.md": "/notes/static/media/primitives.9a43c637adebe30eecfa.md",
+    "static/media/loops.md": "/notes/static/media/loops.8108e8a105b5bf9ab63c.md",
+    "static/media/constants.md": "/notes/static/media/constants.9a98782aebeb1aecc9e7.md",
+    "static/media/structs.md": "/notes/static/media/structs.1c3d82a3b81e1cd0e9c1.md",
+    "static/media/maps.md": "/notes/static/media/maps.d7840e67b56588c04e0a.md",
+    "static/media/main_concepts.md": "/notes/static/media/main_concepts.172559f76434d6478952.md",
+    "index.html": "/notes/index.html",
+    "main.bed4e8db.css.map": "/notes/static/css/main.bed4e8db.css.map",
+    "main.b02e9e9d.js.map": "/notes/static/js/main.b02e9e9d.js.map",
+    "787.74861886.chunk.js.map": "/notes/static/js/787.74861886.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bed4e8db.css",
+    "static/js/main.b02e9e9d.js"
+  ]
+}
